@@ -1,7 +1,7 @@
 [![Header](profile.gif)](https://www.adamalston.com/)
 
 ###### Hi, I'm Adam: 
-- 🎓Recent computer science graduate from [UNC - Chapel Hill](https://cs.unc.edu/)
+- 🎓Recent computer science graduate from UNC - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - :construction_worker: Working on optimization, privacy, and open source
 - :battery: Looking forward to global net zero, Mars (and the rest of space), and nuclear fusion
@@ -12,8 +12,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-adamalston.com-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
-
-<!-- [![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamalston&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars","issues"])](https://github.com/adamalston/github-readme-stats) -->
 
 ###### Languages I have used
 
@@ -29,26 +27,25 @@
 
 
 ###### Technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&#32;software&logoColor=white&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-003A70?style=flat-square&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-1575F9?style=flat-square&logo=XCode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-555555?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-555555?style=flat-square&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-555555?style=flat-square&logo=jira&#32;software&logoColor=white&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-555555?style=flat-square&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-555555?style=flat-square&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat-square&logo=node.js&logoColor=339933)
+![npm](https://img.shields.io/badge/-npm-555555?style=flat-square&logo=npm&logoColor=CB3837)
+![React](https://img.shields.io/badge/-React-555555?style=flat-square&logo=React&logoColor=61DAFB)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-555555?style=flat-square&logo=cisco&logoColor=003A70)
+![XCode](https://img.shields.io/badge/-XCode-555555?style=flat-square&logo=XCode&logoColor=1575F9)
 
 ###### Some of my favorite open source projects
 
-[![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)](https://github.com/bitwarden)
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-141e24?style=flat-square&logo=#&logoColor=white)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-800000?style=flat-square&logo=UBlock&#32;Origin&logoColor=white)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-D9272E?style=flat-square&logo=mega&logoColor=white)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual&#32;studio&#32;code&logoColor=white)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=tor&logoColor=white)](https://www.torproject.org/)
+[![Bitwarden](https://img.shields.io/badge/-Bitwarden-aaaaaa?style=flat-square&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
+[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-aaaaaa?style=flat-square&logo=read-the-docs&logoColor=2f7485)](https://github.com/darkreader/darkreader)
+[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-aaaaaa?style=flat-square&logo=UBlock&#32;Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
+[![MEGA](https://img.shields.io/badge/-MEGA-aaaaaa?style=flat-square&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-aaaaaa?style=flat-square&logo=visual&#32;studio&#32;code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Tor](https://img.shields.io/badge/-Tor-aaaaaa?style=flat-square&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 ###### Fun fact: I once solved the world's oldest question with one line of JavaScript
 
@@ -57,5 +54,5 @@
 
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>>> [ '🐔', '🐣', '🐥', '🥚' ]
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
