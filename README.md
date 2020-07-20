@@ -1,4 +1,4 @@
-[![Header](https://imgur.com/JWAfP18.gif)](https://www.adamalston.com/)
+![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)
 
 ##### Hi, I'm Adam:
 
