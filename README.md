@@ -1,4 +1,4 @@
-[![Header](profile.gif)](https://www.adamalston.com/)
+[![Header](https://imgur.com/vqArBSa.gif)](https://www.adamalston.com/)
 
 ##### Hi, I'm Adam:
 
