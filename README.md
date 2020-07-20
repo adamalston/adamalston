@@ -1,4 +1,4 @@
-[![Header](https://imgur.com/vqArBSa.gif)](https://www.adamalston.com/)
+[![Header](https://imgur.com/JWAfP18.gif)](https://www.adamalston.com/)
 
 ##### Hi, I'm Adam:
 
@@ -42,7 +42,7 @@
 ##### Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-666666?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-666666?style=flat&logo=read-the-docs&logoColor=2f7485)](https://github.com/darkreader/darkreader)
+[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-666666?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
 [![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-666666?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
 [![MEGA](https://img.shields.io/badge/-MEGA-666666?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-666666?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
