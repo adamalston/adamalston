@@ -48,9 +48,10 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-
 <!-- wi*quL3fcV -->
+
+<details>
+    <summary><b>Fun fact: I once solved the world's oldest question with a single line of JavaScript</b></summary>
 
 ```javascript
 // Which came first: the chicken or the egg?
@@ -58,3 +59,4 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
+</details>
