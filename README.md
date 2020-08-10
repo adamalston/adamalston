@@ -36,24 +36,27 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
+![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
-**Some of my favorite open source projects**
+**Some of my projects**
 
-[![Bitwarden](https://img.shields.io/badge/-Bitwarden-000000?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden/browser)
-[![Dark Reader](<https://img.shields.io/badge/-Dark&#160;Reader-000000?style=flat&logo=Dark-Reader&logoColor=2f7485>)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](<https://img.shields.io/badge/-uBlock&#160;Origin-000000?style=flat&logo=UBlock-Origin&logoColor=800000>)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-000000?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/webclient)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+Web/Full Stack:
+[🧬My Website](https://github.com/adamalston/v2),
+[🦠COVID-19 Dashboard](https://github.com/adamalston/COVID-19-Dashboard),
+[📰Summarizer](https://github.com/adamalston/Summarizer),
+[🃏Voice Poker](https://github.com/adamalston/Poker),
+[🗺️PokémonGo Map](https://github.com/adamalston/PokemonGo-Map)
 
-<!-- wi*quL3fcV -->
+Cybersecurity:
+[🩸Heartbleed](https://github.com/adamalston/Heartbleed),
+[🌊SYN Flood](https://github.com/adamalston/SYN-Flood),
+[🗃️Packet Sniffing & Spoofing](https://github.com/adamalston/Packet-Sniffing-and-Spoofing),
+[💉SQL Injection](https://github.com/adamalston/SQL-Injection),
+[🛡️Spectre & Meltdown](https://github.com/adamalston/Meltdown-Spectre)
 
-**Fun fact: I once answered the world's oldest question with a single line of JavaScript**
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
->>> ["🐔", "🐣", "🐥", "🥚"];
-```
+Other:
+[🧽Clean My Mac](https://github.com/adamalston/Clean-My-Mac),
+[📧SMTP](https://github.com/adamalston/SMTP),
+[📡Network Tools](https://github.com/adamalston/Network-Tools),
+[⚙Cache Simulator](https://github.com/adamalston/CacheSimulator),
+[🌈RGB Text Colorizer](https://github.com/adamalston/rgbTextColorizer)
