@@ -1,12 +1,5 @@
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-**Hi, I'm Adam**
-
--   :mortar_board: Recent computer science graduate from UNC - Chapel Hill
--   :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
--   :ringed_planet: Looking forward to global net zero, Mars & the rest of space, and nuclear fusion
--   :mailbox: Ask me about accessibility, cybersecurity, web, full stack, or literally anything!
-
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
@@ -40,23 +33,26 @@
 
 **Some of my projects**
 
-Web/Full Stack:
-[🧬My Website](https://github.com/adamalston/v2),
-[🦠COVID-19 Dashboard](https://github.com/adamalston/COVID-19-Dashboard),
-[📰Summarizer](https://github.com/adamalston/Summarizer),
-[🃏Voice Poker](https://github.com/adamalston/Poker),
-[🗺️PokémonGo Map](https://github.com/adamalston/PokemonGo-Map)
+Web/Full Stack
 
-Cybersecurity:
-[🩸Heartbleed](https://github.com/adamalston/Heartbleed),
-[🌊SYN Flood](https://github.com/adamalston/SYN-Flood),
-[🗃️Packet Sniffing & Spoofing](https://github.com/adamalston/Packet-Sniffing-and-Spoofing),
-[💉SQL Injection](https://github.com/adamalston/SQL-Injection),
-[🛡️Spectre & Meltdown](https://github.com/adamalston/Meltdown-Spectre)
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
+[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
+[![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
+[![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
+[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
 
-Other:
-[🧽Clean My Mac](https://github.com/adamalston/Clean-My-Mac),
-[📧SMTP](https://github.com/adamalston/SMTP),
-[📡Network Tools](https://github.com/adamalston/Network-Tools),
-[⚙Cache Simulator](https://github.com/adamalston/CacheSimulator),
-[🌈RGB Text Colorizer](https://github.com/adamalston/rgbTextColorizer)
+Cybersecurity
+
+[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
+[![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
+[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
+[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
+
+Other
+
+[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
+[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
+[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
+[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
