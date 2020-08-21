@@ -1,8 +1,5 @@
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
 **Languages I have used**
@@ -31,17 +28,15 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
-**Some of my projects**
+**Web/Full Stack projects**
 
-Web/Full Stack
-
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
 [![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
 [![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
 [![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
 [![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
 
-Cybersecurity
+**Cybersecurity projects**
 
 [![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
 [![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
@@ -49,7 +44,7 @@ Cybersecurity
 [![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
 
-Other
+**Other projects**
 
 [![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
 [![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
