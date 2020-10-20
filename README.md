@@ -1,56 +1,49 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.adamalston.com/)
 
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000?style=for-the-badge&logo=react&logoColor=fff)](https://www.adamalston.com/)
+#### Languages
 
-**Languages**
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+#### Technologies
 
-**Technologies**
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![Ansible](https://img.shields.io/badge/-Ansible-fff?&logo=Ansible&logoColor=EE0000)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![Prometheus](https://img.shields.io/badge/-Prometheus-fff?&logo=Prometheus)
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
+![Terraform](https://img.shields.io/badge/-Terraform-fff?&logo=Terraform&logoColor=623CE4)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
 <!-- wi*quL3fcV -->
 
-**Web/Full Stack projects**
+#### Web/Full Stack projects
 
-[![My Website](https://img.shields.io/badge/-🧬 My Website-000?)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠 COVID‑19 Dashboard-000?)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📝 Summarizer-000?)](https://github.com/adamalston/Summarizer)
-[![Voice Poker](https://img.shields.io/badge/-🔊 Voice Poker-000?)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️ PokémonGo Map-000?)](https://github.com/adamalston/PokemonGo-Map)
+[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/adamalston/v2)
+[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-fff?)](https://github.com/adamalston/COVID-19-Dashboard)
+[![Summarizer](https://img.shields.io/badge/-📝%20Summarizer-fff?)](https://github.com/adamalston/Summarizer)
+[![Overwatch](https://img.shields.io/badge/-🔬%20Overwatch-fff?)](https://github.com/adamalston/overwatch)
+[![KubeSat](https://img.shields.io/badge/-🛰%20KubeSat-fff?)](https://github.com/adamalston/kubesat)
+[![Voice Poker](https://img.shields.io/badge/-🔊%20Voice%20Poker-fff?)](https://github.com/adamalston/Poker)
+[![PokémonGo Map](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-fff?)](https://github.com/adamalston/PokemonGo-Map)
 
-**Cybersecurity projects**
+#### Cybersecurity projects
 
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️ Spectre & Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
-[![Heartbleed](https://img.shields.io/badge/-🩸 Heartbleed-000?)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊 SYN Flood-000?)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂️ Packet Sniffing & Spoofing-000?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉 SQL Injection-000?)](https://github.com/adamalston/SQL-Injection)
+[![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20&%20Meltdown-fff?)](https://github.com/adamalston/Meltdown-Spectre)
+[![Heartbleed](https://img.shields.io/badge/-🩸%20Heartbleed-fff?)](https://github.com/adamalston/Heartbleed)
+[![SYN Flood](https://img.shields.io/badge/-🌊%20SYN%20Flood-fff?)](https://github.com/adamalston/SYN-Flood)
+[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20&%20Spoofing-fff?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-fff?)](https://github.com/adamalston/SQL-Injection)
+[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-fff?)](https://github.com/adamalston/Network-Tools)
 
-**Other projects**
-
-[![Overwatch](https://img.shields.io/badge/-📊 Overwatch-000?)](https://github.com/adamalston/Overwatch)
-[![Clean My Mac](https://img.shields.io/badge/-🧼 Clean My Mac-000?)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📮 SMTP-000?)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-🌐 Network Tools-000?)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-🕹️ Cache Simulator-000?)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈 RGB Text Colorizer-000?)](https://github.com/adamalston/rgbTextColorizer)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
